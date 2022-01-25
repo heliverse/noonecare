@@ -16,6 +16,17 @@
 .orange-bg {
   background: #F8A425;
 }
+.drk-orange-bg{
+  background-image: linear-gradient(90deg, rgba(248, 166, 34, 1), rgba(241, 102, 121, 1));
+}
+
+.lght-orange{
+  color: rgba(242, 105, 117, 1);
+}
+.sub-orange-clr{
+  color:rgba(240, 113, 98, 1);
+}
+
 .owl-dots{
   position: absolute;
     bottom: 2em;
@@ -56,6 +67,7 @@
 }
 
 /* section based */
+
 
 
 
